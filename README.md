@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Zyad Ashraf</h1>
+<h1 align="left">Zyad Ashraf</h1>
 
 <p align="left">
 🚀 Passionate <b>Flutter Developer</b> with solid expertise in building cross-platform mobile apps using <b>Dart</b>, <b>Bloc/Cubit</b>, and <b>Clean Architecture</b>.  
